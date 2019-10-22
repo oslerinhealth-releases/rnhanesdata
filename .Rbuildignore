@@ -10,3 +10,6 @@
 ^\.travis\.yml$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
